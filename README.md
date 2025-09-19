@@ -17,3 +17,5 @@ and this on line 19
 for i in range(500):  # High number of threads for stronger effect
 ```
 then run project just this
+```py/python/py3/python3 main.py```
+if print ```attack is started``` your ddos is started
